@@ -5,8 +5,8 @@
         "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
         "location": "London, England",
         "social": {
-            "twitter_handle": "AdapoolsO",
-            "telegram_handle": "adapools_ops",
+            "twitter_handle": "",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -14,47 +14,47 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Company Name",
-            "addr": "Street, Number",
-            "city": "London",
-            "country": "England",
-            "company_id": "123456789",
-            "vat_id": "GB123456789"
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
         },
         "about": {
             "me": "...",
-            "server": "Raspberry Pi Hosted at my Home in London 100MB up/down, solar energy.",
+            "server": "...",
             "company": "..."
         },
         "rss": "http(s) url to valid RSS feed"
     },
     "my-pool-ids": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "84abf54864b232ff72b6cfb93310c1df5e0e8fa531d4730598b6b2cd",
+        "1": ""
     },
     "when-satured-then-recommend": {
-        "0": "0f292fcaa02b8b2f9b3c8f9fd8e0bb21abedb692a6d5058df3ef2735",
-        "1": "618ab17ec8ea7239b4ac0c826b667c599489e25524ce74841a29d510"
+        "0": "84abf54864b232ff72b6cfb93310c1df5e0e8fa531d4730598b6b2cd",
+        "1": ""
     },
     "telegram-admin-handle": {
-        "0": "mnmnmnmnnmn"
+        "0": ""
     },
     "adapools_ext": {
         "prometheus": {
             "0": {
-                "name": "relay 1 eu",
+                "name": "relay 1 jp",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": ""
             },
             "1": {
-                "name": "relay 2 usa",
+                "name": "",
                 "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": ""
             },
             "2": {
-                "name": "block producer home",
+                "name": "",
                 "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
+                "key": ""
             }
         }
     }
